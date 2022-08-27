@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap');
+
+*{
+    margin: 0%;
+    padding: 0%;
+}*
+
+header{
+
+background-color:#f2f2f2;
+
+}
+
+nav {
+  width: 90%;   
+}
+
+
+.nav-item { 
+    font-size: 1.05rem;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+
+ main{
+
+background-image: url(https://img.freepik.com/psd-gratis/fondo-textura-madera-moderna_1022-74.jpg?w=740&t=st=1661532750~exp=1661533350~hmac=f002478f33b7e4327ce7ec9be6a1cdf46a4ba0c66dc5425ec5a39dddfa932bda);
+
+}
+
+.formulario{
+
+    
+    padding: 20px;
+    width: 1000px;
+    height: 80px;
+    background-color: #f2f2f2;
+    border-radius: 10px;
+    border: solid 1px ;
+    position:relative;
+    left: 150px;
+    bottom: 20px;
+}
+
+.carousel-item{
+    background-size:contain;
+}
+    
+    
+ .dropdown{
+     display: inline-block;
+     padding: 10px;
+    border-radius: 25px;
+    left: 350px;
+    bottom: 30px;
+ }
+ 
+
+
+
+
+
+
+footer {
+    color: #f2f2f2;
+    background-image: url(https://img.freepik.com/foto-gratis/concepto-fondo-estudio-fondo-sala-estudio-purpura-degradado-oscuro-producto_1258-55288.jpg?w=900&t=st=1661537842~exp=1661538442~hmac=e28999b614edc6d72bd989928c405a4aeeee6b821facd8193b7bbc1e7a1b378b);
+
+}
+
+
+
+
+
+
+
+
+
+
